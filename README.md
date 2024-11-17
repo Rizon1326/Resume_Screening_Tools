@@ -30,3 +30,34 @@ This is a **Resume Screening App** built with **Streamlit** that uses AI to pred
 ```bash
 git clone https://github.com/your-username/resume-screening-app.git
 cd resume-screening-app
+```
+## Install Dependencies
+bash
+Copy code
+## Run the App
+streamlit run app.py
+## File Structure 📁
+```bash
+.
+├── app.py                # Main application script
+├── clf.pkl               # Pre-trained classification model
+├── tfidf.pkl             # TF-IDF vectorizer model
+├── requirements.txt      # List of Python dependencies
+├── README.md             # Project documentation
+└── background.png        # Optional background image
+```
+## Pre-requisites 🧰
+Python 3.7+
+Required Libraries: Streamlit, nltk, scikit-learn, Pillow
+To install the dependencies, use:
+
+pip install -r requirements.txt
+## Customization 🖌️
+Background Image:
+
+Replace background.png with your desired image and uncomment the set_background() function in the code.
+Fun Facts:
+
+Add or modify the fun_facts dictionary in app.py to include your own fun facts or tips.
+## Built With ❤️ By Rizon
+
