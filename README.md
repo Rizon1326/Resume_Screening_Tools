@@ -52,6 +52,11 @@ Required Libraries: Streamlit, nltk, scikit-learn, Pillow
 To install the dependencies, use:
 
 pip install -r requirements.txt
+
+## Demo 🎥
+Check out the project in action below:
+[Screencast from 2024-10-13 17-25-48.webm](https://github.com/user-attachments/assets/a5537248-b66c-4b62-90d8-6b2418eab941)
+
 ## Customization 🖌️
 Background Image:
 
